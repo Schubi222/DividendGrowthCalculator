@@ -15,3 +15,10 @@
 		<slot />
 	{/if}
 </div>
+
+<style lang="scss">
+	.content {
+		min-height: 100vh;
+		min-width: 100vw;
+	}
+</style>
